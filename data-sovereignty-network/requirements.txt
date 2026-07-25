@@ -1,0 +1,4 @@
+# Production dependencies. All versions pinned.
+boto3==1.34.69
+botocore==1.34.69
+python-dotenv==1.0.1

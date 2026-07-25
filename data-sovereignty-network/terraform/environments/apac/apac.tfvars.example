@@ -1,0 +1,4 @@
+environment         = "production"
+apac_ou_id          = "ou-xxxx-zzzzzzzz"
+flow_log_role_arn   = "arn:aws:iam::222222222222:role/vpc-flow-log-delivery-apac"
+alert_sns_topic_arn = "arn:aws:sns:ap-southeast-1:222222222222:compliance-alerts"

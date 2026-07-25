@@ -1,0 +1,4 @@
+environment         = "production"
+eu_ou_id            = "ou-xxxx-yyyyyyyy"
+flow_log_role_arn   = "arn:aws:iam::111111111111:role/vpc-flow-log-delivery-eu"
+alert_sns_topic_arn = "arn:aws:sns:eu-west-1:111111111111:compliance-alerts"
